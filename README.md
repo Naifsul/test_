@@ -32,15 +32,15 @@ The data set was extracted from Kaggle https://www.kaggle.com/adityadesai13/used
 
 - Features :
 
- - Model : In this column, the model of the car shows us the name of the car for example ford  Kuga.
- - Year : In this column, shows the year of manufacture of the car
- - Price : This column shows the cost of car 
- - Transmission : It shows us the type of car transmission, whether it is (manual )or (automatic)
- - Mileage : In this column, It shows us the distance the car has traveled in miles
- - Fuel type : In this column, it shows us the type of fuel, whether it is (petrol) or (diesel)
- - Tax : In this column, it shows us the cost of taxes  
- - Mpg : In this column, it shows us the distance covered by the car per gallon
- - Engine Size : In this column, it shows us the engine capacity of the car
+  - Model : In this column, the model of the car shows us the name of the car for example ford  Kuga.
+  - Year : In this column, shows the year of manufacture of the car
+  - Price : This column shows the cost of car 
+  - Transmission : It shows us the type of car transmission, whether it is (manual )or (automatic)
+  - Mileage : In this column, It shows us the distance the car has traveled in miles
+  - Fuel type : In this column, it shows us the type of fuel, whether it is (petrol) or (diesel)
+  - Tax : In this column, it shows us the cost of taxes  
+  - Mpg : In this column, it shows us the distance covered by the car per gallon
+  - Engine Size : In this column, it shows us the engine capacity of the car 
 
 
 
@@ -55,7 +55,7 @@ The data set was extracted from Kaggle https://www.kaggle.com/adityadesai13/used
 2. Pandas.
 3. Matplotlib.
 
-#MVP Goal:
+## MVP Goal:
 The MVP goal is to answer at least four of the questions we mentioned
 
 
